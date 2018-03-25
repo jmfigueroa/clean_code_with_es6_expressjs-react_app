@@ -1,4 +1,4 @@
-# Title
+# Clean Code with ES6: ExpressJS + ReactJS
 
 ## Before You Start: Some Considerations
 
